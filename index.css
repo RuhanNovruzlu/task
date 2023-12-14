@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: yellow;
+    height: 600px;
+    width: 600px;
+}
+.div-1{
+  display: flex;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+
+}
+.div-2{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+}
+.text-box{
+    background-color: orange;
+    display: flex;
+}
+.text-2-box{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+/* talet style */
+@media screen and (max-width: 1024px){
+
+
+
+    
+}
+/* mobil style */
+@media screen and (max-width: 768px){
+
+}
